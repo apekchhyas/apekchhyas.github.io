@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+  padding: 32px 0;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+.personal-info,
+.professional-info {
+  margin-top: 32px;
+}
+
+.personal-info__list {
+  margin-top: 16px;
+  list-style: none;
+}
+
+.professional-info__list {
+  margin-top: 12px;
+}
